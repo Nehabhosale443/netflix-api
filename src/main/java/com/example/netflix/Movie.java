@@ -2,7 +2,8 @@ package com.example.netflix;
 
 
 public class Movie {
-
+	
+	
     private Long id;
 
     @NotBlank(message = "Title is required")
